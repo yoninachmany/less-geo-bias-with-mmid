@@ -11,3 +11,7 @@ This File Takes in the following Files:
 
 For each of the 10 classes that we chose, this script prints out the top 20 words with highest cosine similarity to our class. We then manually 
 go through each of the words and select the ones we think are correct
+
+Model.ipynb 
+
+This file contains our dataloader, and all of the models that we ran on the dataset. 
