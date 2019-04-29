@@ -6,7 +6,7 @@ CIS 700-004: Deep Learning for Data Science final project
 """
 Creating_Dataset.py
 
-This file takes as input:\n
+This file takes as input:
     1) csv file where the paths for each word,language are given. (ids_corrected.csv)
     2) Original MMID dataset
     3) List of Classes and synonyms that we selected (Classes.txt)
